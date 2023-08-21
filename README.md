@@ -28,11 +28,31 @@ There was no missing or incomplete data.
 ### Outliers?
 Boxplots for relevant numerical variables (Points scored, Opposing points scored, and Forecast) are below: 
 
-![Figure 1. Points Scored Distribution](/Users/anuroxstar/pts_boxplot.jpg)
- 
-![Figure 2. Opposing Points Distribution](/Users/anuroxstar/opp_pts_boxplot.jpg)
- 
-![Figure 3. Forecast Distribution](/Users/anuroxstar/forecast_boxplot.jpg)
+
+<p align="center">
+  <img src="https://github.com/anuradhases/nba_trends/assets/49212192/5352b5ab-adac-46a1-95bd-8dde6c4b610b" width = 700 />
+</p>
+<div align="center">
+  Figure 1. Points Scored Distribution
+</div>
+
+
+
+<p align="center">
+  <img src="https://github.com/anuradhases/nba_trends/assets/49212192/36cf6997-56fc-4b71-9993-6280e86fc4e8" width = 700 />
+</p>
+<div align="center">
+  Figure 2. Opposing Points Distribution
+</div>
+
+
+<p align="center">
+  <img src="https://github.com/anuradhases/nba_trends/assets/49212192/949b0814-9459-46ae-baf3-9d54e4972e79" width = 700/>
+</p>
+<div align="center">
+  Figure 3. Forecast Distribution
+</div>
+
 
 Outliers are present for all three variables, indicated by points beyond the whiskers. Since knowledge is not known about the specifics of the data collection process, and the sample size is large (63,157 observations), outliers are kept and noted.
 
@@ -45,7 +65,12 @@ This question involves two quantitative variables. Figure 4 shows a scatterplot 
 ### Conclusion:
 There is no linear association between forecast and points won, since it is lower than 0.3. 
 
-![Figure 4. Points Scored vs Forecast](/Users/anuroxstar/)
+<p align="center">
+  <img src="https://github.com/anuradhases/nba_trends/assets/49212192/ed165869-0c9d-4ca7-98b5-4a10a0e810d7" width = 700 />
+</p>
+<div align="center">
+  Figure 4. Points Scored vs Forecast
+</div>
 
 ## Question 2: Does game location affect points scored for a team?
 This question involves one categorical variable, and one quantitative variable.
@@ -53,8 +78,12 @@ Further exploration indicated only two NBA Teams had data available for the two 
 
 ### Conclusion:
 Game location affects points scored for each team.
- 
-![Figure 5: Points Scored vs Game Location](/Users/anuroxstar/)
+<p align="center">
+  <img src="https://github.com/anuradhases/nba_trends/assets/49212192/3eb6e00c-57c3-412c-aff8-90420e082fd4" width = 700/>
+</p>
+<div align="center">
+  Figure 5: Points Scored vs Game Location
+</div>
 
 ## Question 3: Is playing team and game result associated for the top 5 and bottom 5 teams?
 This question involves two categorical variables. A chi square contingency test was used to determine if there was an association. The pvalue was 0.99, which is higher than the significance level of 0.05. This indicates to fail to reject the null, meaning playing team and game result are not associated for the top 5 and bottom 5 teams.
@@ -69,10 +98,19 @@ Figure 7 illustrates the relationship between the points scored and the opposing
 
 ### Conclusion:
 There is a linear association for points scored and opposing team points scored for the top 5 teams and bottom 5 teams. Squires has a strong linear association for points scored and opposing team points scored.
+<p align="center">
+  <img src="https://github.com/anuradhases/nba_trends/assets/49212192/0192ddc3-6866-4d6d-9de3-5e83aed0634f" width = 700 />
+</p>
+<div align="center">
+  Figure 6. Top 5 Teams: Opposing Team Points Scored vs Points Scored
+</div>
 
-![Figure 6. Top 5 Teams: Opposing Team Points Scored vs Points Scored](/Users/anuroxstar/)
- 
-![Figure 7. Bottom 5 Teams: Opposing Team Points Scored vs Points Scored](/Users/anuroxstar/)
+ <p align="center">
+  <img src="https://github.com/anuradhases/nba_trends/assets/49212192/59e02941-3f39-4353-a2ce-d53ffb266155" width= 700 />
+</p>
+<div align="center">
+  Figure 7. Bottom 5 Teams: Opposing Team Points Scored vs Points Scored 
+</div>
 
 ## Question 5: Is there an association between top 5 teams and points won?
 This question involves one categorical variable and one quantitative variable.
@@ -80,7 +118,11 @@ Figure 8 illustrates the distribution for points scored for the top 5 teams, wit
 
 ### Conclusion:
 Condors is different from all other top 4 teams, with a higher frequency for points scored between 100 and 125 at ~0.039. 
-
-![Figure 8. Points Scored vs Top 5 Teams](/Users/anuroxstar/)
+<p align="center">
+  <img src="https://github.com/anuradhases/nba_trends/assets/49212192/57daf42d-fac7-4009-a023-2f8a059c7ff2" width = 700 />
+</p>
+<div align="center">
+  Figure 8. Points Scored vs Top 5 Teams
+</div>
 
 
