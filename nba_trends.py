@@ -28,7 +28,7 @@ from scipy.stats import chi2_contingency
 import scipy.stats as stats
 
 #Step 2: Read data into script
-nba = pd.read_csv('/Users/anuroxstar/Downloads/nba-elo/nbaallelo.csv')
+nba = pd.read_csv('enter source here')
 
 
 #Step 3:Inspect data
