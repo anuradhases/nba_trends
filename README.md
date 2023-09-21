@@ -30,7 +30,7 @@ The [data](https://data.fivethirtyeight.com) is sourced from 538: Complete Histo
 - Does game location affect points scored for a team?<br>
 - Is playing team and game result correlated for the top 5 and bottom 5 teams?<br>
 - How does points won change with opposing points won for the top 5 teams and bottom 5 teams?<br>
-- How does points won change between teams for the top 5 teams?<br>
+- Do all top 5 teams score the same?<br>
 
 ## Key Insights:
 - ***Forecast of winning and points won are not correlated. (R<sup>2</sup> = 0.3).***<br>
