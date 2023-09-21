@@ -26,11 +26,11 @@ The [data](https://data.fivethirtyeight.com) is sourced from 538: Complete Histo
 | forecast | prediction if the playing team will win |
 
 ### Questions:
-- Is forecast of winning linearly associated to points scored? (for all 53 teams) <br>
+- Is forecast of winning correlated to points scored? (for all 53 teams) <br>
 - Does game location affect points scored for a team?<br>
-- Is playing team and game result associated for the top 5 and bottom 5 teams?<br>
-- Is there a linear association between points won and opposing points won for the top 5 teams and bottom 5 teams?<br>
-- Is there an association between top 5 teams and points won?<br>
+- Is playing team and game result correlated for the top 5 and bottom 5 teams?<br>
+- How does points won change with opposing points won for the top 5 teams and bottom 5 teams?<br>
+- How does points won change between teams for the top 5 teams?<br>
 
 ## Key Insights:
 - ***Forecast of winning and points won are not correlated. (R<sup>2</sup> = 0.3).***<br>
