@@ -37,7 +37,7 @@ The [data](https://data.fivethirtyeight.com) is sourced from 538: Complete Histo
 - ***Top 5 Teams: Condors, Stars, Floridians, Squires, Colonels.***<br>
 - ***Bottom 5 Teams: Huskies, Rebels, Bombers, Falcons, Ironmen.*** <br>
 - ***For Clippers and Nets, game location affects points scored.*** <br>
-- ***For the top 5 and bottom 5 teams, points scored and opposing team points scored are correlated (R<sup>2</sup>~0.5). Squires - stands out, having a strong correlation (R<sup>2</sup> = 0.6).***<br>
+- ***For the top 5 and bottom 5 teams, points scored and opposing team points scored are correlated (R<sup>2</sup>~0.5). Squires stands out, having a strong correlation (R<sup>2</sup> = 0.6).***<br>
 - ***Condors, stands out from the top 5 teams, scoring between 100-125 points, 40% of the time.***
 
 
