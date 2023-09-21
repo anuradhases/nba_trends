@@ -34,7 +34,7 @@ The [data](https://data.fivethirtyeight.com) is sourced from 538: Complete Histo
 Note: Top 5 and Botom 5 teams based on points scored.
 
 ## Key Insights:
-- ***There is no significant correlation between forecast of winning and points won. (R<sup>2</sup> = 0.3).***<br>
+- ***There is no significant correlation between forecast of winning and points won. (R<sup>2</sup> = 0.2).***<br>
 - ***Top 5 Teams: Condors, Stars, Floridians, Squires, Colonels.***<br>
 - ***Bottom 5 Teams: Huskies, Rebels, Bombers, Falcons, Ironmen.*** <br>
 - ***Clippers and Nets performance changes with game location.*** <br>
