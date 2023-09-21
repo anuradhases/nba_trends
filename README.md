@@ -9,7 +9,7 @@
 In this project, I conducted a detailed analysis on 63,157 NBA game records from years 1947 to 2015, to showcase key insights through the aid of effective visualizations aimed at evaluating  what factors are correlated with points scored for 53 teams.
 
 ## Data Source
-The [data](https://data.fivethirtyeight.com) is sourced from 538: Complete History of the NBA as a csv. Original data is sourced from Basketball Reference, an online database for NBA history. The data represents every NBA game statistic (e.g. location, win or loss, points scored, opposing team played) from 1947 to 2015.
+The [data](https://data.fivethirtyeight.com) is sourced from 538: Complete History of the NBA as a csv. Original data is sourced from Basketball Reference, an online database for NBA history. The data represents every NBA game statistic (e.g. location, win or loss, points scored, opposing team played) from 1947 to 2015. 
 
 | Variables | Details  | 
 | :-----: | :---: |
@@ -31,14 +31,15 @@ The [data](https://data.fivethirtyeight.com) is sourced from 538: Complete Histo
 - Is playing team and game result correlated for the top 5 and bottom 5 teams?<br>
 - How does points won change with opposing points won for the top 5 teams and bottom 5 teams?<br>
 - Do all top 5 teams score the same?<br>
+Note: Top 5 and Botom 5 teams based on points scored.
 
 ## Key Insights:
-- ***Forecast of winning and points won are not correlated. (R<sup>2</sup> = 0.3).***<br>
+- ***There is no significant correlation between forecast of winning and points won. (R<sup>2</sup> = 0.3).***<br>
 - ***Top 5 Teams: Condors, Stars, Floridians, Squires, Colonels.***<br>
 - ***Bottom 5 Teams: Huskies, Rebels, Bombers, Falcons, Ironmen.*** <br>
-- ***Clippers and Nets score differently with game location.*** <br>
-- ***For the top 5 and bottom 5 teams, points scored and opposing team points scored are correlated (R<sup>2</sup>~0.5). Squires stands out, having a strong correlation (R<sup>2</sup> = 0.6).***<br>
-- ***Condors, stands out from the top 5 teams, scoring between 100-125 points, 40% of the time.***
+- ***Clippers and Nets performance changes with game location.*** <br>
+- ***Among the top 5 and bottom 5 teams, points scored and opposing team points scored are moderately correlated (R<sup>2</sup>~0.5). Squires stands out, having a strong correlation (R<sup>2</sup> = 0.6).***<br>
+- ***Among the top 5 teams, Condors stands out, scoring between 100-125 points, 40% of the time.***
 
 
 
