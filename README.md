@@ -1,4 +1,5 @@
 # NBA Games and Teams Trends: 1947 to 2015:
+## 53 teams, 68 years
 
 ## Table of Contents
 - [Project Overview](#projectoverview)
